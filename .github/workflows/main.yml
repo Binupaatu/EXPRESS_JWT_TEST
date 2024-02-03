@@ -9,7 +9,7 @@ jobs:
       - name: Run SOOS SBOM Analysis
         uses: soos-io/soos-sbom-github-action@v1 # GET Latest Version from https://github.com/marketplace/actions/soos-sbom
         with:
-          client_id: ${{ secrets.SOOS_CLIENT_ID }}
-          api_key: ${{ secrets.SOOS_API_KEY }}
+          client_id: qvbimqd1h
+          api_key: ZGRhNmU5M2QtOTM2NS00ODA5LTg2NjEtOTYxM2U4YjljZTM4
           project_name: "My Project Name"
           sbom_path: "SBOM path relative to the repository or empty if it's on the root"
