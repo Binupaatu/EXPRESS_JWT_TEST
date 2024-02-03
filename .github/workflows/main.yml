@@ -11,5 +11,5 @@ jobs:
         with:
           client_id: qvbimqd1h
           api_key: ZGRhNmU5M2QtOTM2NS00ODA5LTg2NjEtOTYxM2U4YjljZTM4
-          project_name: "My Project Name"
+          project_name: "EXPRESS_JWT_TEST"
           sbom_path: "SBOM path relative to the repository or empty if it's on the root"
