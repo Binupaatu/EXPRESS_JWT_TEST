@@ -37,8 +37,6 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 
 ## Scrum Master
 
-Week 1, Aneesh Ramakrishna Pillai
-
 ## Product Owner
 
 <\<list week number, student name>> Rotating product owner so that everyone gets to experience the role once.
@@ -46,11 +44,6 @@ Week 1, Aneesh Ramakrishna Pillai
 ## Team Members
 
 1. Binupa Chullickal Babu (L00179364)
-2. Shreya Raghuvanshi (L00179092)
-3. Neeharica Madanu (L00179439)
-4. Sushmitha Holthal Manjunath (L00179330)
-5. Vikash sharma (L00179094)
-6. Aneesh Ramakrishna Pillai (L00179208)
 
 ## Project Deadline
 
